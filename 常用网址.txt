@@ -1,0 +1,15 @@
+常用网址的用户名和密码：
+	达内开发文档服务器：doc.tedu.cn(内网)
+
+	下载代码及课堂笔记地址：code.tarena.com.cn
+			用户名：tarenacode
+			密码：code_2013
+
+	本地ftp用途：下载学习资料/课件/代码等。
+		地址：ftp:10.6.6.3
+		用户名：jsdgm
+		密码：tedu.cn
+
+
+
+https://www.bilibili.com/video/av32766674
